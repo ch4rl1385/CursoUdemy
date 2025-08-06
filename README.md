@@ -1,5 +1,9 @@
 #Hola mundo desde git y github.
 
+Esto es el commit de rama1
+Esto es el commit de rama1
+Esto es el commit de rama1
+
 Bienvenido al curso de Git 2025.
 
 Nueva modificación en el stage Area.
