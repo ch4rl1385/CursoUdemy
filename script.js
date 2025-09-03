@@ -5,3 +5,4 @@ console.log("Stage Area");
 console.log("Stage Area 1 VScode");
 
 console.log("Ya vas viendo como se hace el reset")
+console.log("Ya vas viendo como se hace el reset  20125")
