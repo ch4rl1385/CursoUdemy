@@ -1,5 +1,7 @@
 #Hola mundo desde git y github.
 
+Probando el nuevo PC
+
 Esto es el commit de rama1
 
 Bienvenido al curso de Git 2025.
